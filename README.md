@@ -9,7 +9,7 @@
 💼 [LinkedIn](https://www.linkedin.com/in/estimator-paras/)  
 🐙 [GitHub](https://github.com/patel8736)
 
-<img src="./assets/estimator-dashboard.svg" alt="Paras Patel Estimator Dashboard" width="100%"/>
+<img src="./estimator-dashboard.svg" alt="Paras Patel Estimator Dashboard" width="100%"/>
 
 </div>
 
